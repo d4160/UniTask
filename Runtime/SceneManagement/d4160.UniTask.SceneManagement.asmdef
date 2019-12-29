@@ -1,5 +1,5 @@
 {
-    "name": "d4160.UniTask.SceneManagementSystem",
+    "name": "d4160.UniTask.SceneManagement",
     "references": [
         "GUID:abd02ea2a3d741f48b1c16eb7025fec5",
         "GUID:f51ebe6a0ceec4240a699833d6309b23",
